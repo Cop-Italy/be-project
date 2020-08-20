@@ -14,7 +14,7 @@ Per questo compito, ciò che costruirai è un'applicazione che espone le API per
 Il desiderato è avere delle API che permettano di visualizzare una agenda settimanale, visualizzando gli appuntamento in modo aggregato ed in modo dettagliato. Si deve avere anche la possibilità di creare, modificare o cancellare un appuntamento.
 
 Quindi:
-- Visualizzare gli appuntamenti della settimana
+- Visualizzare gli appuntamenti per la settimana
 - Visualizzare i dettaglio di un appuntamento
 - Creare un appuntamento
 - Cancellare un appuntamento
